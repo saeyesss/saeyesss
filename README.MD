@@ -22,9 +22,7 @@ I am Shreyas Nidugala. Here is some info about me
 
 
 ## 🎵 Recents on Spotify
-<p aligh = "center">
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vcuyid9ndfbx61wapicdl9rna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=vcuyid9ndfbx61wapicdl9rna&redirect=true)
 
-</p>
 ---
