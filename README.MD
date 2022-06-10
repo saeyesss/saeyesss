@@ -8,7 +8,9 @@ I am Shreyas Nidugala. Here is some info about me
 
 <p align="center">
 <a href="https://open.spotify.com/user/vcuyid9ndfbx61wapicdl9rna">
-<img alt="Spotify: Shreyas Nidugala" width="26px" height="26px" src="https://raw.githubusercontent.com/saeyesss/spotify-github-profile/master/img/Spotify.svg"/>
+<img alt="Spotify: Shreyas Nidugala" width="26px" height="26px" style="
+ -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+          filter: invert(100%)"  src="https://raw.githubusercontent.com/saeyesss/spotify-github-profile/master/img/Spotify.svg"/>
 </a>
 </p>
 
