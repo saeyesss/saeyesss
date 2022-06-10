@@ -25,5 +25,5 @@ I am Shreyas Nidugala. Here is some info about me
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vcuyid9ndfbx61wapicdl9rna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=vcuyid9ndfbx61wapicdl9rna&redirect=true)
 
- [[https://spotify-github-profile.vercel.app/api/view.svg?uid=vcuyid9ndfbx61wapicdl9rna&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vcuyid9ndfbx61wapicdl9rna&cover_image=true&theme=compact)]]
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=vcuyid9ndfbx61wapicdl9rna&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vcuyid9ndfbx61wapicdl9rna&cover_image=true&theme=compact)]]
 ---
