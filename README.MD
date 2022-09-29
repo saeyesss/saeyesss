@@ -9,4 +9,4 @@ Currently a Comp Sci senior in NMAMIT Nitte, India. Exploring many domains with 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vcuyid9ndfbx61wapicdl9rna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=vcuyid9ndfbx61wapicdl9rna&redirect=true)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=saeyesss&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=saeyesss&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
